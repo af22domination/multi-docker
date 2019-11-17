@@ -20,3 +20,4 @@ after_success:
   - docker push af22domination/multi-nginx
   - docker push af22domination/multi-server
   - docker push af22domination/multi-worker
+  #delete this line
